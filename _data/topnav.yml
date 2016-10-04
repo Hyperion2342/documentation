@@ -33,5 +33,3 @@ topnav_dropdowns:
           url: /p1_landing_page.html
         - title: Nexus
           url: /p2_landing_page.html
-         - title: Sonar
-          url: /p2_landing_page.html
