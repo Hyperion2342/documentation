@@ -9,7 +9,7 @@ topnav:
 topnav:
 - title: Topnav
   items:
-    - title: News
+    - title: Test
       url: /news
 
 #Topnav dropdowns
