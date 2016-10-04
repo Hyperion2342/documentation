@@ -4,6 +4,7 @@ sidebar: home_sidebar
 keywords: news, blog, updates, release notes, announcements
 permalink: faq.html
 toc: false
+folder: pages
 ---
 <div class="home">
 
