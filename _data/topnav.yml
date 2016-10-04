@@ -3,6 +3,12 @@
 topnav:
 - title: Topnav
   items:
+    - title: Über Uns
+      url: /aboutus
+
+topnav:
+- title: Topnav
+  items:
     - title: News
       url: /news
 
