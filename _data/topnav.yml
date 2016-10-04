@@ -1,16 +1,13 @@
 ## Topnav single links
 ## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
-topnav:
-- title: Topnav
-  items:
-    - title: Über Uns
-      url: /aboutus
 
 topnav:
 - title: Topnav
   items:
-    - title: Test
+    - title: Über Uns
       url: /news
+    - title: FAQ
+      url: /faq
 
 #Topnav dropdowns
 topnav_dropdowns:
