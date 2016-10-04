@@ -15,5 +15,6 @@ Theme updates:
 - removed some of the alternative layouts
 - added blog feature
 - sidebars configurable per page
+- welcome
 
 {% include links.html %}
