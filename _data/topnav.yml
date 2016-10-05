@@ -27,7 +27,7 @@ topnav_dropdowns:
           external_url: http://idratherbewriting.com/category-jekyll/
     - title: Products
       folderitems:
-        - title: Jekyll Ressources
+        - title: Jenkins
           url: /mydoc_introduction.html
         - title: GitLab
           url: /p1_landing_page.html
